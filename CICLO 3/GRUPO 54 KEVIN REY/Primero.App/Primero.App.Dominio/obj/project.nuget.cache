@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sI5r6KvLpRG7c9pCKZjgzPCAoS2SgldX8/luXW/Pug2J3EHu+3iyrrtas5/XBTUEPgpkixVcSgyMg6NY9Flt3A==",
+  "success": true,
+  "projectFilePath": "C:\\CICLO 3\\GRUPO 54 KEVIN REY\\Primero.App\\Primero.App.Dominio\\Primero.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\USUARIO\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
